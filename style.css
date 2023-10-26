@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: lightseagreen;
+    padding-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.perf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.perf img {
+    width: 400px;
+    display: none;
+}
